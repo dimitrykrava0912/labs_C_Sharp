@@ -1,0 +1,14 @@
+E:\C++\Lab\Lab\bin\Debug\Lab.exe.config
+E:\C++\Lab\Lab\bin\Debug\Lab.exe
+E:\C++\Lab\Lab\bin\Debug\Lab.pdb
+E:\C++\Lab\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+E:\C++\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+E:\C++\Lab\Lab\obj\Debug\Lab.exe
+E:\C++\Lab\Lab\obj\Debug\Lab.pdb
+C:\Users\dmtkr\Downloads\Lab_2\Lab_2\Lab\bin\Debug\Lab.exe.config
+C:\Users\dmtkr\Downloads\Lab_2\Lab_2\Lab\bin\Debug\Lab.exe
+C:\Users\dmtkr\Downloads\Lab_2\Lab_2\Lab\bin\Debug\Lab.pdb
+C:\Users\dmtkr\Downloads\Lab_2\Lab_2\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+C:\Users\dmtkr\Downloads\Lab_2\Lab_2\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\dmtkr\Downloads\Lab_2\Lab_2\Lab\obj\Debug\Lab.exe
+C:\Users\dmtkr\Downloads\Lab_2\Lab_2\Lab\obj\Debug\Lab.pdb
